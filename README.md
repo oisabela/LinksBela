@@ -1,6 +1,4 @@
-![DesignApp1](https://media.discordapp.net/attachments/890371348663246849/1059908444217417918/DesktopApp.png)&nbsp;
-
-![DesignApp2](https://media.discordapp.net/attachments/890371348663246849/1059908444540370995/MobileApp.png)&nbsp;
+![DesignApp1](https://media.discordapp.net/attachments/890371348663246849/1059909509742592119/Conunt.png)&nbsp;
 
 ## Getting Started
 
